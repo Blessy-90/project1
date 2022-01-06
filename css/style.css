@@ -1,0 +1,72 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body
+{
+
+	background-image:url(../img/iu.jpg);
+	background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+form 
+{
+	border: 2px solid;
+	display: block;
+	width: 20%;
+	height: 300px;
+	position: relative;
+	top: 50px;
+	margin-left: 500px;
+	background-color:rgba(0, 0, 0, .5);
+	
+
+}
+
+.user
+{
+   align-items: center;
+   margin-left: 40px;
+
+
+
+}
+input
+{
+	margin: 10px;
+	height: 30px;
+	width: auto ;
+
+}
+h1
+{
+	margin: 10px;
+	text-align: center;
+	color: #fff;
+
+}
+.sign
+{
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin-left: 90px;
+	
+}
+button
+{
+	width: 100px;
+	height: 30px;
+	border-radius: 20px;
+	margin-top: 10px;
+}
+
+.user
+{
+	margin-top: 30px;
+	justify-content: center;
+	
+}

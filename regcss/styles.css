@@ -1,0 +1,42 @@
+.div
+{
+	background-image: url(../img/1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.reg 
+{
+	 position: relative;
+	 margin-left:200px ;
+	/* border: 2px solid;*/
+	 display: flex;
+	flex-direction: column;
+	width: 300px;
+}
+
+input{
+	background-color: #333;
+	margin-top: 20px;
+	height: 30px;
+	color: #fff;
+}
+
+.container h1 
+{
+	text-align: center;
+	font-size: 40px;
+	color: #fff;
+	text-shadow: 10px 5px 5px #000;
+}
+.container-signin p
+{
+	text-align: center;
+	font-size: 20px;
+}
+button 
+{
+	height: 40px;
+	border-radius: 20px;
+	margin-top: 10px;
+}
